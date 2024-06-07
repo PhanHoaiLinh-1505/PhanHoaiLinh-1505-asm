@@ -1,0 +1,455 @@
+.ThanhNgang {
+  width: 1306px;
+  height: 60px;
+  background-color: #000000;
+  margin-top: 45px;
+}
+.ThanhNgang3 {
+  width: 1306px;
+  height: 60px;
+  background-color: #000000;
+  margin-top: 45px;
+}
+.ThanhNgang1 {
+  width: 1320px;
+  height: 60px;
+  background-color: #000000;
+  margin-top: 45px;
+}
+.ThanhNgang2 {
+  width: 1306px;
+  height: 60px;
+  background-color: #000000;
+  margin-top: 45px;
+}
+.TieuDe {
+  font-size: 15px;
+  font-weight: 500;
+  float: right;
+}
+.Ten {
+  font-size: 17px;
+  font-weight: 500;
+  float: right;
+  margin-right: 595px;
+  margin-top: 10px;
+}
+.TheVip {
+  font-size: 17px;
+  color: gray;
+  font-weight: bolder;
+  text-decoration: none;
+}
+.TheVip:hover {
+  text-decoration: underline;
+}
+.LoGo {
+  height: 150px;
+}
+.DauCach {
+  margin-left: 13px;
+}
+.BoSuuTap {
+  color: white;
+  font-weight: 500;
+  font-size: 150%;
+  text-decoration: none;
+  margin-left: 25%;
+  line-height: 55px;
+}
+.BoSuuTap:hover {
+  text-decoration: underline;
+  font-weight: 500;
+}
+.column {
+  float: left;
+}
+.san-pham > img {
+  width: 423px;
+}
+.DauCach1 {
+  margin-left: 13px;
+  width: 423px;
+  height: 317px;
+}
+.TieuDeDuoi {
+  clear: both;
+  text-align: center;
+}
+.MucLuc {
+  text-align: center;
+  clear: both;
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+.ChuMucLuc {
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
+.DangNhap {
+  width: 70px;
+  margin-left: 47%;
+}
+.Anh4 {
+  float: left;
+  width: 631px;
+}
+.Anh5 {
+  float: left;
+  width: 631px;
+  margin-left: 30px;
+}
+.hr {
+  clear: both;
+}
+.AoThunSale {
+  margin-left: 550px;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 60px;
+}
+.AoThunSale1 {
+  margin-left: 510px;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 60px;
+}
+.AoThunSale2 {
+  margin-left: 540px;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 60px;
+}
+.AoThunSale3 {
+  margin-left: 520px;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 60px;
+}
+.menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu > li {
+  position: relative;
+  display: inline-block;
+}
+
+.menu-link {
+  font-weight: 500;
+  font-size: 120%;
+  line-height: 37px;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+  color: white;
+}
+.menu-link:hover {
+  color: red;
+}
+
+.submenu {
+  width: 120px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: none;
+  position: absolute;
+  top: 100%;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.submenu > li > a {
+  margin-left: 0px;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+  color: white;
+}
+.submenu > li > a:hover {
+  color: red;
+}
+.menu > li:hover .submenu {
+  display: block;
+}
+.Anh6 {
+  width: 100%;
+}
+.sale20 {
+  clear: both;
+  margin-left: 77px;
+  font-size: large;
+}
+.spAo {
+  width: 200px;
+  margin-left: 28px;
+}
+.spAoSale {
+  width: 300px;
+  margin-left: 28px;
+}
+.spAoSale1 {
+  width: 300px;
+}
+.spAoSale2 {
+  width: 293.2px;
+  margin-left: 40px;
+}
+.spAoSale0 {
+  width: 293.2px;
+}
+.gia {
+  color: red;
+  font-weight: 800;
+}
+.giaGoc {
+  color: black;
+  font-weight: 800;
+  margin-left: 28px;
+}
+.del {
+  margin-left: 28px;
+  color: black;
+  font-weight: 800;
+}
+.del1 {
+  color: black;
+  font-weight: 800;
+}
+.Chu1 {
+  color: white;
+}
+.Chu2 {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+.xemThemSP {
+  clear: both;
+  width: 280px;
+  height: 25px;
+  background-color: rgb(67, 66, 66);
+  margin-left: 1010px;
+  border-radius: 3px;
+  text-align: center;
+  padding-top: 7px;
+}
+.boGachChan {
+  text-decoration: none;
+}
+.xemThemSP:hover {
+  background-color: rgb(50, 50, 50);
+}
+.chuXemThem {
+  color: white;
+}
+.dangNhap {
+  margin-left: 550px;
+  font-size: larger;
+}
+.nhapSDT {
+  clear: both;
+  width: 280px;
+  height: 25px;
+  background-color: white;
+  margin-left: 500px;
+  border-radius: 3px;
+  text-align: center;
+  padding-top: 7px;
+  border: 2px solid black;
+}
+.KhungMienPhi {
+  width: 98%;
+  height: 20px;
+  background-color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  padding-top: 4px;
+  border: 2px solid rgb(249, 114, 114);
+  padding-left: 20px;
+}
+.chuMienPhi {
+  color: rgb(249, 114, 114);
+}
+.chuDangNhap {
+  color: gray;
+}
+.khungDangNhap {
+  clear: both;
+  width: 280px;
+  height: 25px;
+  background-color: rgb(42, 109, 252);
+  margin-left: 500px;
+  border-radius: 3px;
+  text-align: center;
+  padding-top: 7px;
+}
+.chuDangNhap1 {
+  color: white;
+}
+.xemThem1 {
+  width: 100%;
+}
+.Ca1 {
+  float: left;
+}
+.tenCa1 {
+  font-size: 17px;
+  font-weight: 600;
+}
+.giaCa1 {
+  color: red;
+  font-size: 25px;
+  font-weight: 600;
+}
+.s {
+  font-weight: 600;
+}
+.s a {
+  text-decoration: none;
+  color: red;
+}
+.s a:hover {
+  text-decoration: none;
+  color: rgb(162, 1, 1);
+}
+.moTa {
+  font-size: 20px;
+  font-weight: 700;
+}
+.ndMoTa {
+  font-size: 15px;
+}
+.minhHoaCa1 {
+  clear: both;
+  margin-top: 15px;
+  float: left;
+  width: 665px;
+}
+.minhHoaCa12 {
+  clear: both;
+  margin-top: 271.5px;
+  margin-left: 15px;
+  width: 665px;
+}
+.minhHoaCa122 {
+  clear: both;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 665px;
+}
+.thanhCong {
+  text-align: center;
+  color: rgb(84, 139, 207);
+}
+.giohang {
+  float: right;
+}
+.giohang img {
+  width: 30px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+.donHangCuaBan {
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 15px;
+  margin-left: 400px;
+}
+.chiTietDonHang {
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 15px;
+}
+article {
+  width: 45%;
+  height: 400px;
+  float: left;
+}
+.article1 {
+  height: 400px;
+  float: left;
+  width: 13%;
+}
+aside {
+  width: 45%;
+  height: 400px;
+  float: left;
+}
+.aside1 {
+  height: 400px;
+  float: left;
+  width: 87%;
+}
+.aside2 {
+  height: 400px;
+  float: left;
+  width: 10%;
+}
+.giaGioHang {
+  font-size: 20px;
+}
+.tong {
+  font-size: 20px;
+  font-weight: bolder;
+}
+.phiVanChuyen {
+  color: red;
+}
+.form-control {
+  width: 98%;
+  height: 25px;
+  padding: 5px;
+  outline: none;
+  border: 1 solid gray;
+  border-radius: 2px;
+  margin: 5px 0;
+}
+.form-control1 {
+  width: 49%;
+  height: 25px;
+  padding: 5px;
+  outline: none;
+  border: 1 solid gray;
+  border-radius: 2px;
+  margin: 5px 0;
+  margin-left: 300px;
+}
+.form-botton {
+  width: 100%;
+  padding: 10px 30px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+}
+.form-botton1 {
+  width: 50%;
+  padding: 10px 30px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  margin-left: 300px;
+}
+.form-botton:hover {
+  background-color: rgb(2, 2, 92);
+}
+.form-botton1:hover {
+  background-color: rgb(2, 2, 92);
+}
+.hoTen {
+  margin-left: 540px;
+  font-size: 20px;
+  font-weight: bolder;
+}
